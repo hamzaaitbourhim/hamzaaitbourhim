@@ -32,6 +32,5 @@ Here are some ideas to get you started:
 <!--
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaaitbourhim&show_icons=true&theme=radical)
 -->
-[![coding time](https://github-readme-stats.vercel.app/api/wakatime?username=hamzaaitbourhim)](https://github.com/hamzaaitbourhim)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaaitbourhim&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaaitbourhim&layout=compact)
 
