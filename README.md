@@ -3,7 +3,7 @@
 <div align="center">  
 
   
-[![Linkedin Badge](https://img.shields.io/badge/-Hamza%20Aitbourhim-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-ait-bourhim/)
+[![Linkedin Badge](https://img.shields.io/badge/-Hamza%20Ait%20bourhim-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-ait-bourhim/)
  
 
 ![](https://visitor-badge.glitch.me/badge?page_id=hamzaaitbourhim.hamzaaitbourhim)
