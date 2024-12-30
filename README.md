@@ -36,20 +36,13 @@ I'm a passionate software engineer with a strong background in **full-stack deve
 
 ---
 
-🏆 **Achievements & Activities**  
-- **UN Big Data Hackathon (2022)**: Worked on climate datasets to study the impact of climate change.  
-- **REDAL Trophy for Innovation (2022)**: Designed a mobile app for real-time monitoring of electricity and water consumption.  
-- **English Club (2019-2020)**: Organized activities fostering communication and cultural exchange.  
-
----
-
 📌 **Pinned Projects**  
 
 ### 🤖 **AI & Machine Learning Projects**  
 - **Spotify User Data Analysis**: Predicting song skips using machine learning models.  
 - **Road Accident Analysis**: Data cleaning and analysis to propose solutions for traffic mortality reduction.  
 
-### 📊 **Data Analysis Projects**  
+### 📊 **Web Development Projects**  
 - **Hotel Reservation System**: Developed a scalable and maintainable API for hotel management.  
 - **Car Rental Admin Panel**: Designed and implemented a responsive admin dashboard.  
 
