@@ -9,7 +9,7 @@ I'm a passionate software engineer with a strong background in **full-stack deve
 🎓 **Education**  
 - **Master's Degree (MCS)**: Software Engineering, University of Western Brittany, France (2023-2024).  
 - **Engineering Degree**: Data Science & AI, ENSAM Rabat, Morocco (2021-2024).  
-- **Associate's Degree**: Computer Science (Valedictorian), EST Agadir, Morocco (2019-2021).  
+- **Associate's Degree**: Computer Science, EST Agadir, Morocco (2019-2021).  
 
 ---
 
